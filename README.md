@@ -1,2 +1,2 @@
 # IndianCultureInformationSystem
-Indian Culture Information Management System
+Indian Culture Information System
